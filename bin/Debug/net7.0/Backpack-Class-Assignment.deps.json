@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Backpack-Class-Assignment/1.0.0": {
+        "runtime": {
+          "Backpack-Class-Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backpack-Class-Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\CS30\C#\Backpack-Class-Assignment\bin\Debug\net7.0\Backpack-Class-Assignment.exe
+F:\CS30\C#\Backpack-Class-Assignment\bin\Debug\net7.0\Backpack-Class-Assignment.deps.json
+F:\CS30\C#\Backpack-Class-Assignment\bin\Debug\net7.0\Backpack-Class-Assignment.runtimeconfig.json
+F:\CS30\C#\Backpack-Class-Assignment\bin\Debug\net7.0\Backpack-Class-Assignment.dll
+F:\CS30\C#\Backpack-Class-Assignment\bin\Debug\net7.0\Backpack-Class-Assignment.pdb
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.csproj.AssemblyReference.cache
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.AssemblyInfoInputs.cache
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.AssemblyInfo.cs
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.csproj.CoreCompileInputs.cache
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.dll
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\refint\Backpack-Class-Assignment.dll
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.pdb
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\Backpack-Class-Assignment.genruntimeconfig.cache
+F:\CS30\C#\Backpack-Class-Assignment\obj\Debug\net7.0\ref\Backpack-Class-Assignment.dll
